@@ -13,7 +13,7 @@ Follow the steps below to install and run the project locally:
 ### 1. Clone the project:
 
 ```bash
-https://github.com/khaled-abdelaal14/ATC_01030410354.git
+git clone https://github.com/khaled-abdelaal14/ATC_01030410354.git
 cd ATC_01030410354
 composer install
 cp .env.example .env
